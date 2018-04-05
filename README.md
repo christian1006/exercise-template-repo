@@ -86,7 +86,7 @@ Things I struggled with:
 * 
 * 
 
-My study goals and stragegies:
+My study goals and stragegies: what did I learn and how to apply for the future cases. 
 * 
 * 
 * 
