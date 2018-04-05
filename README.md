@@ -1,7 +1,7 @@
 
 solution: Function
 * Args: 2 args
-  * # and string
+* # and string
 * Return: returns a string
 * Behavior: repeats the string.
 
